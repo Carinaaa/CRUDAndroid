@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DatabaseDemo</string>
+    <string name = "Customer_name">Customer name></string>
+    <string name = "Customer_number">Enter number</string>
+    <string name = "btn_viewAll">VIEW ALL</string>
+    <string name = "btn_add">ADD</string>
+    <string name = "active_customer">Active customer</string>
+</resources>
